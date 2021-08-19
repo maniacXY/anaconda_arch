@@ -7,7 +7,9 @@ I grep most of the stuff from the [anaconda documentation](https://docs.anaconda
 
 # Install it
 
-## Packages needed
-
--   First of all get the \[dependencies
-    (https://docs.anaconda.com/anaconda/install/linux/)\]
+-   First of all get the [dependencies](https://docs.anaconda.com/anaconda/install/linux/)
+Then run in the terminal
+```console
+sha256sum /path/filename
+```
+The path is normally ~/Downloads
