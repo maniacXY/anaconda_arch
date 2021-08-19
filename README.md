@@ -76,7 +76,7 @@ I put all that stuff in a simple script.
 You just have to clone the script into a directory and give him the execute rights
 ```console
 cd /DIRECTORY-OF-THE-SCRIPT
-chmod 744 anaconda.sh
+chmod 700 anaconda.sh
 ``` 
 
 Then you can give it an alias.  
